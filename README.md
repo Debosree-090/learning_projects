@@ -15,4 +15,4 @@ In the test environment of Metasploit 2, vulnerability scanning is being perform
 
 <h2>Program walk-through:</h2>
 Checking how many TCP ports are open on MS2: <br/>
-![01](https://github.com/Debosree-090/learning_labs/assets/96138088/0a773be6-b800-4e6f-8ec8-cea3b140c152)
+
