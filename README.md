@@ -16,30 +16,30 @@ In the test environment of Metasploit 2, vulnerability scanning is being perform
 Checking how many TCP ports are open on MS2: <br/>
 <br/>
 
-![scanning01](https://github.com/Debosree-090/learning_labs/assets/96138088/1580313a-5c5b-48c2-94e5-c78d540decfd)
+![scanning01](https://github.com/Debosree-090/learning_projects/assets/96138088/623675ed-c8ff-4095-9a85-535818f2d7a7)
 <br/>
 
 Checking how many UDP ports are open on MS2: <br/>
 
-![scanning02](https://github.com/Debosree-090/learning_labs/assets/96138088/f762d4d6-e105-4e51-8d28-b05ac9522d15)
+![scanning02](https://github.com/Debosree-090/learning_projects/assets/96138088/9888ee47-921a-48e4-a4c5-a2683a804637)
 <br/>
 
 Metasploitable Root Shell: <br/>
 
-![scanning03](https://github.com/Debosree-090/learning_labs/assets/96138088/e355d638-b4ad-4818-8875-68f54e63a64a)
+![scanning03](https://github.com/Debosree-090/learning_projects/assets/96138088/3a4bec5a-215c-473c-a399-6176fc2f1e72)
 <br/>
 
 FTP port running on non-standard port:</br>
 
-![Scanning04](https://github.com/Debosree-090/learning_labs/assets/96138088/3e701ecc-d05e-41fd-bc86-5c683dad8720)
+![Scanning04](https://github.com/Debosree-090/learning_projects/assets/96138088/71f81f46-68df-4815-b5ea-a0ffb11d9869)
+
 <br/>
 
-![Scanning05](https://github.com/Debosree-090/learning_labs/assets/96138088/fa385994-9f4d-402c-93b3-11262876211b)
-
+![Scanning05](https://github.com/Debosree-090/learning_projects/assets/96138088/e7258a51-a258-4f2e-a1a6-fe5471ed86d1)
+</br>
 Version of FTP checking: </br>
 
-![Scanning06](https://github.com/Debosree-090/learning_labs/assets/96138088/03ab130e-2495-480b-9e92-468a45d00f33)
-
+![Scanning06](https://github.com/Debosree-090/learning_projects/assets/96138088/937ed121-bbd1-4da6-9bea-2c3ec2ba926a)
 
 
 
